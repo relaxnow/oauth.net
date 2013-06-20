@@ -45,6 +45,7 @@ require('../includes/_header.php');
 				    <li><a href="https://github.com/bshaffer/oauth2-server-php">PHP OAuth2 Server</a> and <a href="https://github.com/bshaffer/oauth2-demo-php">Demo</a></li>
 				    <li><a href="https://github.com/lncd/OAuth2">PHP OAuth 2.0 Auth and Resource Server</a> and <a href="https://github.com/lncd/oauth2-example-auth-server">Demo</a></li>
 				    <li><a href="https://github.com/fkooman/php-oauth">PHP OAuth 2.0</a> (AS with SAML/BrowserID AuthN, with management REST API, see <a href="https://frko.surfnetlabs.nl/workshop/">DEMO</a>)</li>
+				    <li><a href="https://github.com/FriendsOfSymfony/FOSOAuthServerBundle#fosoauthserverbundle">PHP Symfony2 OAuth2 Server Bundle</a></li>
 				  </ul>
 				</li>
 				<li><a href="https://github.com/nov/rack-oauth2">Ruby OAuth2 Server (draft 18)</a></li>
